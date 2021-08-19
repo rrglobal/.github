@@ -1,13 +1,15 @@
 <p>
     <img alt="Rolls-Royce Logo" width="100" src="https://raw.githubusercontent.com/rropen/MEC/main/src/frontend/public/logo4.png">
     <br>
-    A Vue.js Component Library for the Rolls-Royce Cobalt Design System
+    Rolls-Royce Closed Source Code of Conduct
+</p>
+<p>
+ <a href=""><img src="https://img.shields.io/badge/Rolls--Royce-Software%20Factory-10069f"></a>
 </p>
 
 ------
-# Rolls-Royce Open Source Code of Conduct
 
-This code of conduct outlines expectations for participation in Microsoft-managed open source communities, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
+This code of conduct outlines expectations for participation in Rolls-Royce managed closed source communities, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
 
 Our open source communities strive to:
 
@@ -24,3 +26,4 @@ Our open source communities strive to:
 * Understand disagreements: Disagreements, both social and technical, are useful learning opportunities. Seek to understand the other viewpoints and resolve differences constructively.
 * This code is not exhaustive or complete. It serves to capture our common understanding of a productive, collaborative environment. We expect the code to be followed in spirit as much as in the letter.
 
+Content based on [Microsoft Open Source Code of Conduct](https://microsoft.github.io/codeofconduct/)
