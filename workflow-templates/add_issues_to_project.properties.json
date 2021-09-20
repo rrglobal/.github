@@ -1,0 +1,5 @@
+{
+    "name": "Add Issues & PRs to Project Board",
+    "description": "rrGlobal org workflow template to add new issues and PRs into the main SF Project Board",
+    "iconName": "document-add",
+}
