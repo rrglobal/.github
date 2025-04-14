@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Docs Site
+    url: https://ghdocs.rollsroyce-sf.com
+    about: Please see our docs site for information related to our architectures, onboarding, or other types of support.

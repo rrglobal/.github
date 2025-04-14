@@ -9,12 +9,14 @@ body:
     attributes:
       label: Current Behavior
       description: A concise description of what you are seeing or experiencing.
+      placeholder: ...
     validations:
       required: false
   - type: textarea
     attributes:
       label: Expected Behavior
       description: A concise description of what you expected to see or happen.
+      placeholder: ...
     validations:
       required: true
   - type: textarea
